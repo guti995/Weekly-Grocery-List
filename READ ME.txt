@@ -1,0 +1,75 @@
+****************************************************************************************************************************************************************
+PREREQUISITES
+****************************************************************************************************************************************************************
+You must have the Java JDK installed onto your system in order to run this program. You can follow the link below to acces this JDK:
+				https://download.oracle.com/java/18/latest/jdk-18_windows-x64_bin.exe
+
+
+****************************************************************************************************************************************************************
+Creating Recipies.txt File
+****************************************************************************************************************************************************************
+
+The Recipies.txt file must be created EXACTLY as described below: 
+
+NAME OF MEAL - (Spacing between words is okay for this section)
+
+STYLE OF MEAL - (Currently, the options for meals are: TexMex, Italian, Asian, Fish, Homestyle, and Other.)
+	          (Other is reserved for categories describe in this section that do not EXACTLY match the other 5 categories.)
+
+*** FROM THIS POINT ON, ALL ITEMS ADDDED TO THE LIST MUST USE AND UNCDERSCORE INSTEAD OF A SPACE***
+*** Once name is finished, press SPACE and add a numeric quantity (CAN BE DECIMALS)  ***
+*** When quantity is finshed, press SPACE and add a Unit of measurment (THIS SHOULD STAY CONSISTENT FOR ALL INSTANCES OF THIS INGREDIENT. EVEN IN OTHER MEALS)
+
+PROTEIN - (Currently, the proteins listed in the program are Chicken, Sausage, Pork, Salmon, Steak, Beef, and Chorizo.)
+	    (If you use a protein not on this list, the item you type in will be displayed EXACTLY as you typed it.)
+	    (However, if any of the previous meats are apart of the protein name, its will display as the keyworded version of the protein).
+
+ALL OTHER INGREDIENTS - (Add every other ingredients needed for recipe)
+
+**** EXAMPLE ****
+Salmon with Rice and Broccoli
+Fish
+Salmon 1 LB
+Rice 1 Cup
+Broccoli 1 Head
+Garlic 4 Cloves
+	         <---- This space must be between each meal
+(Insert next Meal)
+
+****************************************************************************************************************************************************************
+Changing File Path of Recipies.txt and Weekly Grocery List.txt
+****************************************************************************************************************************************************************
+
+To change the directory of Recipies.txt (input file) and Weekly Meals List.txt (output file):
+- Navigate to the location of the Groceries Program Folder and open it.
+- Right-click Recipies.txt and select "copy as path" from the window.
+- Once copied, navigate to the "FoodItems" folder and open it.
+- Right-click GroceryList (not GrcoeryList.class if present) and open in notepad.
+- Scroll to the until you see the multitude of ********** on the right hand side and following the prompt [being sure to copy the file within the ( )]
+- Save and proceed.
+
+- Repeat this process with the output file (not "Recipies.txt". You may name this new File however you like). 
+- (NOTE: The ******** from the previous step is going to be towards the bottom of the GroceryList.java you opened in the previous step).
+- (NOTE: You can exhange selecting the premade file (Weekly Grocery List.txt) for a new file of your choice by determining the path of the desired storage folder and adding what name youd like the file to be.
+  (Ex: A file named "MyDopeGroceryList.txt" can be added to my desktop by copying the path to my desktop and then after pasting that path, adding "\MyDopeGroceryList.txt")
+- Save and Exit.
+
+******************************************************************************************************************************************************************
+Changing the .bat and .ps1 File Paths (Used to Launch Powershell and Execute the Code)
+******************************************************************************************************************************************************************
+To change the Grocery Program Launchers ps1 file Execution path:
+- Navigate to the location of the Groceries Program Folder and open it.
+- Right click the GoceryPS1.ps1 file and select "copy as path" from the window.
+- Right-click Grocery Program Launcher and select "edit" from the window (WIN 11 requires you to select "Show more options" to reach this option).
+- Once in the file, navigate to the first set of " " and replace the contents of the the " " with the file path you copied.
+- Save and exit.
+
+To change the Contents of the GroceryPS1.ps1 file (Powershell script):
+- Navigate to the location of the Groceries Program Folder and open it.
+- Right click the FoodItems folder and select "copy as path" from the window.
+- Open the GroceryPS1.ps1 file with notepad
+- On line 1, Navigate the first " " and replace the contents with your copied file path from the previous step.
+- On line 2, repeat the previous step, but after you replace the contents, add "\GroceryList.java" after it.
+- On line 3, repeat the previous step, but instead type "\Meals.java"
+- Keep line 4 as is.
+- Save and Exit.

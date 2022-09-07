@@ -1,0 +1,151 @@
+Chicken Fettuccini Alfredo with Broccoli
+Italian
+Chicken_Breast 2 Breasts
+Fettuccini 8 oz
+Broccoli 2 Heads
+Garlic 3 Cloves
+Heavy_Cream .25 Cups
+Parmesan 1 Cup
+Broth 1 Cup
+
+Salmon with White Rice and Broccoli
+Fish
+Salmon 1 Filet
+White_Rice 1 Cup
+Broccoli 2 Heads
+
+Chicken Stir Fry with Broccoli
+Asian
+Chicken_Breast 2 Breasts
+White_Rice 1 Cup
+Carrots 3
+Corn 1 
+Broccoli 1 Head
+Soy_Sauce 4 Tbs
+General_Tsos 2 Tbs
+
+Pepperoni and Chorizo Pizza
+Italian
+Chorizo 2 Links
+Pizza_Dough 1 Pack
+Marinara_Sauce .5 Jar
+Pepperoni 1 Pack
+Mozzarella 1 Cup
+Parmesan 1 Cup
+
+Steak with Potatoes and Broccoli
+Homestyle
+Steak 1 Filet
+Garlic 4 Cloves
+Butter 4 Tbs
+Rosemary 1 
+Yellow_Potatoes 8
+Broccoli 2 Heads
+
+Chicken Parmesan with Pasta and Broccoli
+Italian
+Chicken_Breast 2 Breasts
+Spaghetti 8 oz
+Broccoli 2 Heads
+Mozzarella 1 Cup
+Parmesan 1 Cup
+Garlic 4 Cloves
+Breadcrumbs 1 Cup
+Eggs 2 
+Flour 1 Cup
+
+Chicken Tenders with Fries
+Homestyle
+Chicken_Tenderloins 10 Tenderloins
+Fries 1 Bag
+Milk 1 Cup
+Corn_Starch 4 Tbs
+Flour 1 Cup
+Vegetable_Oil 1
+
+Pork Burgers with Fries
+Homestyle
+Pork 1 Lbs
+Fries 1 Bag
+Buns 4 
+Pepperjack 4 Slices
+Lettuce 1 
+Tomato 1 
+
+Mexican Stuffed Peppers
+TexMex
+Pork 1 Lb
+Mixed_Peppers 4 
+Rice 1 Cup
+Mexican_Seasoning 4 Tbs
+Cheddar_Chesse 1 Cup
+
+Tortellini with Spicy Sausage
+Italian
+Spciy_Italian_Sausage 4 Links
+Tortelinni 1 Lb
+Marinara_Sauce .5 Cup
+Zucchini 1
+
+Shepherd's Pie
+Homestyle
+Beef 1 Lb
+Yellow_Potatoes 8 
+Corn 1
+Peas 1 Cup
+Carrots 4
+
+Chicken Pot Pie
+Homestyle
+Chicken_Breasts 2 Breasts
+Carrots 4
+Celery 2
+Yellow_Onions .5
+Flour 6 Tbs
+Biscuits 1 Pack
+Broth 1 Cup
+Butter 4 Tbs
+
+Red Hot Chicken with Carrots and Potatoes 
+Homestyle
+Chicken_Breast 2 Breasts
+Yellow_Potatoes 10
+Red_Hot_Seasoning 4 Tbs
+Butter 4 Tbs
+Scallions 2
+Breadcrumbs .5 Cup
+Carrots 4
+Honey 2 Tbs
+Garlic 4 Cloves
+
+Beef and Poblano Enchiladas
+TexMex
+Beef 1 lb
+Flour_Tortillas 6
+Poblano_Peppers 2
+Tomato 1
+Sour_Cream 4 Tbs
+Tomato_Paste 12 oz
+Lime 1
+Cheddar_Cheese .5 Cup
+Scallions 2
+
+Beef and Poblano Tostadas
+TexMex
+Pork 1 Lb
+Corn_Tostadas 8
+Poblano_Peppers 2
+Cheddar_Cheese .5 Cup
+Lettuce 1
+Tomato 1
+Sour_Cream 4 Tbs
+Lime 1
+
+Pork Chops with Au Gratin Potatoes
+Homestyle
+Pork_Chops 1 lb
+Au_Gratin_Potatoes 1
+Breadcrumbs 1 Cup
+Eggs 2
+Flour 1 Cup
+
