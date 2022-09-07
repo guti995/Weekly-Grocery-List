@@ -1,2 +1,2 @@
-Powershell -executionpolicy bypass -NoExit -File "I:\My Drive\Misc Projects\Groceries Program\GroceryPS1.ps1"
+Powershell -executionpolicy bypass -NoExit -File "Insert file path to .bat file here"
 -Command /k
